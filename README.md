@@ -8,7 +8,7 @@
    - JavaScript
 
 ## Please watch this project demo and explanation video :
-- Click Below Thumnail
+- Click Above Thumnail
 [![Basic-Banking-App](https://img.youtube.com/vi/aSXQbNmphDQ/0.jpg)](https://www.youtube.com/watch?v=aSXQbNmphDQ&t=12s)
 
 ## Problem Statement/Opportunity :
