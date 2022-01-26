@@ -18,19 +18,32 @@
 
 ## Below you will find sample images :)
 
-![](images/1.jpg)
+![](image/1.png)
 
 
-### CODE SNIPPET
+### OVERVIEW
 
-![](images/H1.png)
+![](image/3.png)
+
+![](image/11.png)
 
 
-![](images/H2.png)
+![](image/12.png)
 
 
-![](images/H3.png)
+### CODE
 
-### QnA MAKER BOT 
+![](image/14.png)
 
-![](images/H4.png)
+
+![](image/15.png)
+
+
+![](image/16.png)
+
+### THANK YOU SO MUCH
+
+![](image/4.png)
+
+
+
