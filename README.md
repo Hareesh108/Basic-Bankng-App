@@ -1,13 +1,13 @@
 # SPARK FOUNDATION INTERSHIP PROJECT
 
-## PROJECT NAME - Basic Banking App
+## Project Name- Basic Banking App
 
 ## Resources used:
    - HTML
    - CSS
    - JavaScript
 
-## Please watch this project demo and explanation video created by me for further idea and refference of my project :) (Click Below Thumbnail)
+## Please watch this project demo and explanation video :
 [![Basic-Banking-App](https://img.youtube.com/vi/aSXQbNmphDQ/0.jpg)](https://www.youtube.com/watch?v=aSXQbNmphDQ&t=12s)
 
 ## Problem Statement/Opportunity :
