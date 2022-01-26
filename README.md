@@ -1,6 +1,6 @@
 # SPARK FOUNDATION INTERSHIP PROJECT
 
-## Project Name- Basic Banking App
+## Project Name- Basic Banking System
 
 ## Resources used:
    - HTML
