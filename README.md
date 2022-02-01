@@ -12,10 +12,9 @@
 [![Basic-Banking-App](https://img.youtube.com/vi/aSXQbNmphDQ/0.jpg)](https://www.youtube.com/watch?v=aSXQbNmphDQ&t=12s)
 
 ## Problem Statement/Opportunity :
-- Create a simple dynamic website which has the following specs.
-- Start with creating a dummy data in database for upto 10 customers. Database options: Mysql, Mongo, Postgres, etc. Customers table will have basic fields such as name, email, current balance etc. Transfers table will record all transfers happened.
-- Flow: Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.
-- No Login Page. No User Creation. Only transfer of money between multiple users.
+- Create a simple website where payment gateway is integrated.
+- There will be a simple donate button on homepage. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc.
+- Once the payment is done and invoice will be generated and email will be sent to the user for the payment received.
 
 ## Below you will find sample images :)
 
